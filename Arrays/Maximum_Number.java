@@ -1,7 +1,5 @@
 package Arrays;
 
-import java.util.Arrays;
-
 class Maximum_Number {
     public static void main(String[] args) {
         int[] nums = { 3, 3, 6, 1 };
