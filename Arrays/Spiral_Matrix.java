@@ -42,7 +42,6 @@ public class Spiral_Matrix {
                 bottom--;
             }
 
-            // left column
             if (left <= right) {
                 for (int i = bottom; i >= top; i--) {
                     System.out.print(matrix[i][left] + " ");
