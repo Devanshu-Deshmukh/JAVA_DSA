@@ -26,7 +26,7 @@ public class String_Compression {
 
         }
         System.out.println(j);
-
+        System.out.println(Arrays.toString(comp));
     }
 
 }
