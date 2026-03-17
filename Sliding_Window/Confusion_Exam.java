@@ -13,7 +13,7 @@ public class Confusion_Exam {
                 tcount++;
             } else {
                 fcount++;
-                ;
+                
             }
             int window = right - left + 1;
             int maxchar = Math.max(tcount, fcount);
