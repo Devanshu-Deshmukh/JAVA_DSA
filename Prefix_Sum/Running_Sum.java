@@ -10,5 +10,4 @@ public class Running_Sum {
         }
         System.out.println(Arrays.toString(nums));
     }
-
 }
